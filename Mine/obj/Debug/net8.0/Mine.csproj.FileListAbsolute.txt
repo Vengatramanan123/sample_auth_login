@@ -1,0 +1,14 @@
+D:\repos\Mine\Mine\bin\Debug\net8.0\Mine.exe
+D:\repos\Mine\Mine\bin\Debug\net8.0\Mine.deps.json
+D:\repos\Mine\Mine\bin\Debug\net8.0\Mine.runtimeconfig.json
+D:\repos\Mine\Mine\bin\Debug\net8.0\Mine.dll
+D:\repos\Mine\Mine\bin\Debug\net8.0\Mine.pdb
+D:\repos\Mine\Mine\obj\Debug\net8.0\Mine.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Mine\Mine\obj\Debug\net8.0\Mine.AssemblyInfoInputs.cache
+D:\repos\Mine\Mine\obj\Debug\net8.0\Mine.AssemblyInfo.cs
+D:\repos\Mine\Mine\obj\Debug\net8.0\Mine.csproj.CoreCompileInputs.cache
+D:\repos\Mine\Mine\obj\Debug\net8.0\Mine.dll
+D:\repos\Mine\Mine\obj\Debug\net8.0\refint\Mine.dll
+D:\repos\Mine\Mine\obj\Debug\net8.0\Mine.pdb
+D:\repos\Mine\Mine\obj\Debug\net8.0\Mine.genruntimeconfig.cache
+D:\repos\Mine\Mine\obj\Debug\net8.0\ref\Mine.dll
