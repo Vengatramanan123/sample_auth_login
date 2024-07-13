@@ -1,7 +1,8 @@
-#Sample Auth Login
+**Sample Auth Login**
+
 The repository contains basics of C - Sharp representing the sample auth.
 
-Topics Covered :
+**Topics Covered**
 1. User input
 2. string
 3. numbers
